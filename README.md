@@ -1,4 +1,4 @@
-# SchematicDiagram
+# SchematicDiagram+
 Play Factorio with a new skin, Schematic Diagram Style. Has extremely reduced quality graphics for better performance in low end computers.
 
 Objective of the mod:
