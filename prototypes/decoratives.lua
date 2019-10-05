@@ -72,7 +72,7 @@ data.raw["utility-sprites"]["default"].clouds =
 	
 	data.raw["utility-sprites"]["default"].copper_wire =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-copper-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-copper-wire.png",
       priority = "extra-high-no-scale",
       width = 224,
 	  flags = { "no-crop" },
@@ -81,7 +81,7 @@ data.raw["utility-sprites"]["default"].clouds =
     }
 	data.raw["utility-sprites"]["default"].wire_shadow =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-copper-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-copper-wire.png",
       width = 1,
 	  height = 1,
 	  flags = { "no-crop" },
@@ -89,7 +89,7 @@ data.raw["utility-sprites"]["default"].clouds =
 	 
 	 data.raw["utility-sprites"]["default"].    green_wire =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-green-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-green-wire.png",
       priority = "extra-high-no-scale",
       width = 224,
       height = 46,
@@ -98,7 +98,7 @@ data.raw["utility-sprites"]["default"].clouds =
 	
 	data.raw["utility-sprites"]["default"].	green_wire_shadow =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-green-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-green-wire.png",
       priority = "extra-high-no-scale",
 	  flags = { "no-crop" },
       width = 1,
@@ -107,7 +107,7 @@ data.raw["utility-sprites"]["default"].clouds =
 	
 	data.raw["utility-sprites"]["default"].red_wire =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-red-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-red-wire.png",
       priority = "extra-high-no-scale",
       width = 224,
       height = 46,
@@ -116,7 +116,7 @@ data.raw["utility-sprites"]["default"].clouds =
 	
 	data.raw["utility-sprites"]["default"].	red_wire_shadow =
     {
-      filename = "__SchematicDiagram__/graphics/entity/50-green-wire.png",
+      filename = "__SchematicDiagram+__/graphics/entity/50-green-wire.png",
       priority = "extra-high-no-scale",
 	  flags = { "no-crop" },
       width = 1,
