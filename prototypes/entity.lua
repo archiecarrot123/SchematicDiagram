@@ -1771,9 +1771,13 @@ data.raw["lamp"]["small-lamp"].picture_on =
     
 		
 		
+--- COMBINATORS
+
+--- ARITHMETIC COMBINATOR
+
+--- CONSTANT COMBINATOR
 		
-		
-		
+--- DECIDER COMBINATOR
 		
 		
 		
