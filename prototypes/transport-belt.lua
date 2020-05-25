@@ -216,53 +216,53 @@ data.raw["splitter"]["splitter"].belt_animation_set = {
   ending_east_index = 20,
 }
 data.raw["splitter"]["splitter"].structure =
-    {
-      north =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 18,
-        shift = util.by_pixel(6, 0),
-       scale = 2
-      },
-      east =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 40,
-        shift = util.by_pixel(4, -6),
-        scale = 2
-      },
-      south =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 16,
-        shift = util.by_pixel(4, 0),
-		scale = 2
-        
-      },
-      west =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 38,
-        shift = util.by_pixel(6, -4),
-        scale = 2
-      }
-    }
+{
+  north =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+   scale = 2
+  },
+  east =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  south =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  west =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  }
+}
+
 
 	
 	--- fast splitter
@@ -319,53 +319,53 @@ data.raw["splitter"]["fast-splitter"].belt_animation_set = {
   ending_east_index = 20,
 }
 data.raw["splitter"]["fast-splitter"].structure =
-    {
-      north =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 18,
-        shift = util.by_pixel(6, 0),
-       scale = 2
-      },
-      east =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 40,
-        shift = util.by_pixel(4, -6),
-        scale = 2
-      },
-      south =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 16,
-        shift = util.by_pixel(4, 0),
-		scale = 2
-        
-      },
-      west =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 38,
-        shift = util.by_pixel(6, -4),
-        scale = 2
-      }
-    }
+{
+  north =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+   scale = 2
+  },
+  east =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  south =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  west =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  }
+}
+
 
 	--- express splitter
 	
@@ -419,53 +419,53 @@ data.raw["splitter"]["express-splitter"].belt_animation_set = {
   ending_east_index = 20,
 }
 data.raw["splitter"]["express-splitter"].structure =
-    {
-      north =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 18,
-        shift = util.by_pixel(6, 0),
-       scale = 2
-      },
-      east =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 40,
-        shift = util.by_pixel(4, -6),
-        scale = 2
-      },
-      south =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 41,
-        height = 16,
-        shift = util.by_pixel(4, 0),
-		scale = 2
-        
-      },
-      west =
-      {
-        filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
-        frame_count = 1,
-        line_length = 1,
-        priority = "extra-high",
-        width = 23,
-        height = 38,
-        shift = util.by_pixel(6, -4),
-        scale = 2
-      }
-    }
+{
+  north =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-north.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+   scale = 2
+  },
+  east =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-east.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  south =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-south.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 36,
+    height = 22,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  },
+  west =
+  {
+    filename = "__SchematicTextures__/graphics/entity/splitter-west.png",
+    frame_count = 1,
+    line_length = 1,
+    priority = "extra-high",
+    width = 22,
+    height = 36,
+    shift = util.by_pixel(0, 0),
+    scale = 2
+  }
+}
+
 
 	
 	
