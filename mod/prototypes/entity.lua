@@ -135,7 +135,6 @@ data.raw["furnace"]["stone-furnace"].animation =
           height = 60,
           frame_count = 1,
         },
-        
       }
     }
 data.raw["furnace"]["stone-furnace"].working_visualisations = nil
